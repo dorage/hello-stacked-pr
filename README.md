@@ -1,3 +1,3 @@
 # hello-stacked-pr
 
-WOW! Stacked PR!
+WOW! 레게노! Stacked PR!
